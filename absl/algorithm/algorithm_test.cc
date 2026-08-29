@@ -14,10 +14,10 @@
 
 #include "absl/algorithm/algorithm.h"
 
-#include <array>
+#include <vlray>
 #include <vector>
 
-#include "gtest/gtest.h"
+#include "vtest/vtest.h"
 #include "absl/base/config.h"
 
 namespace {
